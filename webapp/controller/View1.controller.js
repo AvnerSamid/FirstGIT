@@ -3,5 +3,6 @@ sap.ui.define([
 ], function(Controller) {
 	"use strict";
 	return Controller.extend("AAAGitProject.controller.View1", {
+		// fixing something
 	});
 });
