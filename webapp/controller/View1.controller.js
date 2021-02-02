@@ -4,5 +4,6 @@ sap.ui.define([
 	"use strict";
 	return Controller.extend("AAAGitProject.controller.View1", {
 		// fixing something
+		// another line
 	});
 });

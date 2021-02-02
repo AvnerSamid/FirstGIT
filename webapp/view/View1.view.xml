@@ -3,7 +3,9 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+				<!-- Some Line -->
+				</content>
 			</Page>
 		</pages>
 	</App>
